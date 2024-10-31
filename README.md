@@ -4,7 +4,8 @@ A functional example mod for scanning different map generatation settings for va
 
 The logger will default output to ```script-output\MapSeedScanner\seed_SEEDNUMBER.log```
 
-
+Version 1 is for Factorio 1.0
+Version 2 is for Factorio 2.0
 
 ## Installation
 

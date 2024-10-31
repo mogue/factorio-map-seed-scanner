@@ -1,0 +1,11 @@
+{
+  "name": "map-seed-scanner",
+  "version": "2.0.0",
+  "factorio_version": "2.0",
+  "date": "2022-01-15",
+  "title": "Map Seed Scanner",
+  "author": "mogue",
+  "contact": "",
+  "homepage": "https://github.com/mogue/factorio-map-seed-scanner",
+  "dependencies": ["base >= 2.0.00"]
+}
